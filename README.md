@@ -1,13 +1,19 @@
-# Stock Portfolio Tracker
+# 📊 Stock Portfolio Tracker
 
-## About the Project
-This is a Python-based Stock Portfolio Tracker developed during my internship at CodeAlpha.
+## 📌 About the Project
+This project is a Python-based Stock Portfolio Tracker developed during my internship at CodeAlpha.
 
-## Description
-This project helps users track their stock investments and manage their portfolio using Python.
+## 🚀 Features
+- Add stocks to portfolio
+- Track investment values
+- View portfolio summary
+- Simple command-line interface
 
-## Technologies Used
+## 🛠️ Technologies Used
 - Python
 
-## Internship
+## 🎓 Internship
 CodeAlpha Internship Project
+
+## 👩‍💻 Author
+Arpitha555
